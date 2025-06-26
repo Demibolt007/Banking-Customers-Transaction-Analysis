@@ -28,7 +28,7 @@ As a data analyst at a digital-first bank, the goal of this project was to answe
 
 ##  Dataset
 
-This dataset is from the FP20 June 2025 Challenge, you can download it [here](./Banking%20Customers%20&%20Transaction%20Analysis.xlxs).
+This dataset is from the FP20 June 2025 Challenge. You can download it [here](./Banking%20-%20Customers%20%26%20Transaction%20Analysis%20%28Dataset%29.xlsx).
 
 **Description:**  
 The dataset simulates 20,000 enriched transactions across financial products like checking accounts, savings, loans, credit cards, and mortgages. It includes both customer-level and transaction-level data such as:
