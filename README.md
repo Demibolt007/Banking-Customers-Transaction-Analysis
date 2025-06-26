@@ -1,4 +1,4 @@
-# 💳 Banking – Customers & Transaction Analysis
+#  Banking – Customers & Transaction Analysis
 
 ![Page 1](https://github.com/user-attachments/assets/e455d758-5c1f-42db-b854-dfc08eca338e)
 
@@ -28,7 +28,7 @@ As a data analyst at a digital-first bank, the goal of this project was to answe
 
 ##  Dataset
 
-📂 This dataset is from the FP20 June 2025 Challenge, you can download it [here](./Banking%20Customers%20&%20Transaction%20Analysis).
+This dataset is from the FP20 June 2025 Challenge, you can download it [here](./Banking%20Customers%20&%20Transaction%20Analysis).
 
 **Description:**  
 The dataset simulates 20,000 enriched transactions across financial products like checking accounts, savings, loans, credit cards, and mortgages. It includes both customer-level and transaction-level data such as:
@@ -90,21 +90,21 @@ The dataset simulates 20,000 enriched transactions across financial products lik
 
 ##  Recommendations
 
-- 🧠 **Personalize Offers** for income segments — especially middle-income users with high engagement  
-- 🛠️ **Improve UI/UX** on ATM and Online channels to reduce friction and late payment fees  
-- 📅 **Time Promotions** around March to take advantage of seasonal transactional spikes  
-- 📢 **Push Literacy Offers** more aggressively — high engagement at low cost  
+-  **Personalize Offers** for income segments — especially middle-income users with high engagement  
+-  **Improve UI/UX** on ATM and Online channels to reduce friction and late payment fees  
+-  **Time Promotions** around March to take advantage of seasonal transactional spikes  
+-  **Push Literacy Offers** more aggressively — high engagement at low cost  
 
 
 ---
 
-## 👨‍💻 About the Analyst  
+##  About the Analyst  
 **Oluwademilade Adeniyi**  
 Data Analyst | Power BI Enthusiast | Storytelling through Data  
 📫 [LinkedIn](https://www.linkedin.com/in/adeniyioluwademilade/) | ✉️ adeniyioluwademilade@gmail.com
 
 ---
 
-## 🗂️ License  
+##  License  
 This project is open-source and available under the MIT License.
 
